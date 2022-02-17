@@ -233,7 +233,7 @@ body {
 .titlle-desk-list-item-text {
   font-weight: normal;
   font-size: 14px;
-  line-height: 1.14;
+  line-height: 1.71;
   letter-spacing: 0.03em;
   color: var(--team-color);
 }
@@ -369,10 +369,9 @@ body {
   letter-spacing: 0.03em;
   color: var(--contacts-color);
 }
-.contacts-footer-link:not(:last-child) {
+.contacts-footer-li:not(:last-child) {
   margin-bottom: 9px;
 }
-
 /*styles to portfolio*/
 .site-nav {
   list-style: none;
