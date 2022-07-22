@@ -321,7 +321,7 @@ body {
 .team-list-item-desk-text {
   font-weight: normal;
   font-size: 16px;
-  line-height: 2;
+  line-height: 1.17;
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--team-color);
